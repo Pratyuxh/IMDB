@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IMDB/static/css/main.8e7bfabc.css",
+    "main.js": "/IMDB/static/js/main.29cc44b2.js",
+    "static/js/787.7c442f28.chunk.js": "/IMDB/static/js/787.7c442f28.chunk.js",
+    "index.html": "/IMDB/index.html",
+    "main.8e7bfabc.css.map": "/IMDB/static/css/main.8e7bfabc.css.map",
+    "main.29cc44b2.js.map": "/IMDB/static/js/main.29cc44b2.js.map",
+    "787.7c442f28.chunk.js.map": "/IMDB/static/js/787.7c442f28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e7bfabc.css",
+    "static/js/main.29cc44b2.js"
+  ]
+}
